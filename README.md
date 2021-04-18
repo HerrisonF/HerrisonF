@@ -13,4 +13,4 @@
 [![HerrisonF's github stats](https://github-readme-stats.vercel.app/api?username=HerrisonF&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abel13)]()-->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrisonF&layout=demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrisonF&layout=demo&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
