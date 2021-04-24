@@ -14,5 +14,4 @@
 
  <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abel13)]()-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrisonF&layout=demo&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![HerrisonF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HerrisonF)](https://github.com/anuraghazra/github-readme-stats)
+
