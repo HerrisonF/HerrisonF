@@ -2,7 +2,7 @@
 
 💼- I’m currently working at: 
 <br/>
-[![Accurate Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg)](https://accurate.com.br/)
+[![Avanade Badge](avanade.com/-/media/logo/share-avanade-logo.jpg?la=pt-br&ver=1)](https://www.avanade.com/pt-br)
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
