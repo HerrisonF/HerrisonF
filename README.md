@@ -2,7 +2,7 @@
 
 💼- I’m currently working at: 
 <br/>
-[![Avanade Badge](avanade.com/-/media/logo/share-avanade-logo.jpg?la=pt-br&ver=1)](https://www.avanade.com/pt-br)
+[![Avanade Badge](https://www.avanade.com/-/media/logo/share-avanade-logo.jpg)](https://www.avanade.com/pt-br)
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
