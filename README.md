@@ -2,7 +2,7 @@
 
 💼- I’m currently working at: 
 <br/>
-[![Avanade Badge](https://global-uploads.webflow.com/5dd26389edfe6a292b73e07d/5f1aa4dff88485c338b6ce05_1281230.png)](https://www.avanade.com/pt-br)
+[![TOTVS Badge](https://www.totvs.com/wp-content/uploads/2021/04/totvs-shared.png)](https://www.totvs.com/)
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
