@@ -8,7 +8,6 @@
 📫- <b>How to reach me:</b> <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/herrison-féres-423023103)
-[![Site Badge](https://img.shields.io/static/v1?&message=Currículo&color=important)](https://herrisonf.github.io/)
 
 [![HerrisonF's github stats](https://github-readme-stats.vercel.app/api?username=HerrisonF&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
