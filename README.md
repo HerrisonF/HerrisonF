@@ -2,7 +2,11 @@
 
 💼- I’m currently working at: 
 <br/>
-[![TOTVS Badge](https://www.totvs.com/wp-content/uploads/2021/04/totvs-shared.png)](https://www.totvs.com/)
+
+<a href="https://www.totvs.com/">
+    <img src="https://www.totvs.com/wp-content/uploads/2021/04/totvs-shared.png" alt="TOTVS Badge" width="200">
+</a>
+
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
